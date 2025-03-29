@@ -16,4 +16,5 @@ def smart(func):
 def div(a,b):
     print(a/b)
 
-div(2,0)
+div(0,2)
+#please try this out
